@@ -3,7 +3,7 @@ layout: post
 title: 자주 사용하는 Git 명령어
 description: "자주 사용되어 알아두면 좋은 Git 명령어"
 modified: 2018-07-18
-tags: [git command]
+tags: [git]
 ---
 
 ## 소스 되돌리기
@@ -45,3 +45,12 @@ tags: [git command]
     $ git branch {mypage}
     $ git checkout {mypage}
     $ git push --set-upstream origin {mypage}
+
+## 서브모듈 Clone
+    $ git clone --recurse-submodules https://github.com/chaconinc/MainProject
+
+## 서브모듈 프로젝트를 Fetch 하고 업데이트
+    $ git submodule update --remote
+
+## 브랜치/태그 목록
+    $ git show-branch
