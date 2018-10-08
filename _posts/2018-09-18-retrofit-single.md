@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Retrofit 인스턴스 만들기"
+title: "Retrofit 인스턴스 만들기zzz"
 description: "Retrofit 인스턴스 만들기"
 tags: [android, retrofit]
 categories: [android]

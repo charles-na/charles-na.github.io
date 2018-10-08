@@ -54,3 +54,7 @@ tags: [git]
 
 ## 브랜치/태그 목록
     $ git show-branch
+
+## Soucetree Fetch 마다  Password Required 나오는 경우
+    $ git config credential.helper store
+    $ git pull
