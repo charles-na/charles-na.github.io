@@ -58,3 +58,6 @@ tags: [git]
 ## Soucetree Fetch 마다  Password Required 나오는 경우
     $ git config credential.helper store
     $ git pull
+
+## 서브모듈 자동 업데이트 설정
+    $ git config --global submodule.recurse true
