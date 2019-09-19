@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 이규원 소개
+title: 나윤규 소개
 permalink: /about/
 ---
 
