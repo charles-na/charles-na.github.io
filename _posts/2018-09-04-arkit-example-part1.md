@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "ARKit by Example - Part1: AR Cube"
-description: "첫 번째 포스트는 ARKit을 사용한 정말 간단한 hello world AR 앱을 만들 것입니다."
-tags: [arkit,apple]
-categories: [arkit]
+title: 첫 번째 포스트는 ARKit을 사용한 정말 간단한 hello world AR 앱을 만들 것입니다.
+date:   2018-09-04 21:20:00 +0900
+categories: blog
 ---
+
+ARKit by Example - Part1: AR Cube
+
+<!--more-->
 
 첫 번째 예제는 ARKit을 사용한 정말 간단한 hello world AR 앱을 만들 것입니다. AR 월드에 3D 큐브를 배치하고, iOS 기기로 3D 큐브를 둘러 볼 수 있게 됩니다. 
 

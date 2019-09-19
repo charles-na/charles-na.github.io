@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Sceneform Overview"
-description: "Sceneform Overview"
-tags: [arcore,android]
-categories: [ar]
+title: Sceneform Overview
+date:   2018-09-06 21:20:00 +0900
+categories: blog
 ---
+
+Sceneform Overview
+
+<!--more-->
 
 ## Add an ArFragment
 

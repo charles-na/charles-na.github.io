@@ -1,10 +1,14 @@
 ---
 layout: post
-title: "ARCore by Google"
-description: "ARCore by Google"
-tags: [arcore,google]
-categories: [ar]
+title: ARCore by Google
+date:   2018-09-05 21:20:00 +0900
+categories: blog
 ---
+
+ARCore by Google
+
+<!--more-->
+
 ## 소개
 ARCore는 Tango와 구글이 협력하여 모바일 AR을 강화하기 위해 만든 SDK 입니다. ARCore는 추가 하드웨어 없이 작동하므로, 안드로이드 에코시스템 전체로 확장할 수 있습니다. ARCore는 7.0 Nugat 이상을 실행하는 Pixel 및 삼성 S8을 시작으로 앞으로 수백만 기기에서 실행될 것입니다.
 

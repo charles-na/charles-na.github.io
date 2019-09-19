@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "Retrofit 인스턴스 만들기"
-description: "Retrofit 인스턴스 만들기"
-tags: [android, retrofit]
-categories: [android]
+title: Retrofit 인스턴스 만들기
+date:   2018-09-18 21:20:00 +0900
+categories: blog
 ---
+
+Retrofit 인스턴스 만들기
+
+<!--more-->
 
 ## Retrofit 인스턴스 만들기
 Retrofit을 사용하여 REST API에 네트워크 Request를 보내려면 Retrofit.Builder 클래스를 사용하여 인스턴스를 만들고, Base URL을 구성해야 합니다.

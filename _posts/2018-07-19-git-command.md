@@ -1,10 +1,13 @@
 ---
 layout: post
 title: 자주 사용하는 Git 명령어
-description: "자주 사용되어 알아두면 좋은 Git 명령어"
-modified: 2018-07-18
-tags: [git]
+date: 2018-07-18 21:20:00 +0900
+categories: blog
 ---
+
+자주 사용되어 알아두면 좋은 Git 명령어
+
+<!--more-->
 
 ## 소스 되돌리기
     $ git 되돌리기

@@ -1,11 +1,13 @@
 ---
 layout: post
 title: 맥 환경에서 Jenkins 설치
-description: 맥 환경에서 Jenkins 설치
-modified: 2018-11-01
-tags: [jenkins,mac]
-categories: [jenkins]
+date:   2018-11-01 21:20:00 +0900
+categories: blog
 ---
+
+맥 환경에서 Jenkins 설치
+
+<!--more-->
 
 ## Homebrew 설치 (없는 경우)
     $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"

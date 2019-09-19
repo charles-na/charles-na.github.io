@@ -1,10 +1,13 @@
 ---
 layout: post
 title: "마인크래프트 서버 구축"
-description: "마인크래프트 JAVA Edition 서버 구축"
-tags: [minecraft]
-categories: [environment]
+date:   2018-09-01 21:20:00 +0900
+categories: blog
 ---
+
+마인크래프트 JAVA Edition 서버 구축
+
+<!--more-->
 
 ## 클라이언트 설치파일 다운로드
 https://minecraft.net/ko-kr/download

@@ -1,10 +1,13 @@
 ---
 layout: post
-title: "FragmentPagerAdapter"
-description: "FragmentPagerAdapter 메모리 누수 위험"
-tags: [android, memory]
-categories: [android]
+title: FragmentPagerAdapter 메모리 누수 위험
+date:   2018-09-17 21:20:00 +0900
+categories: blog
 ---
+
+FragmentPagerAdapter 메모리 누수 위험
+
+<!--more-->
 
 ## 기본적인 차이점
 #### FragmentPagerAdapter
